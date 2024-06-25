@@ -1,2 +1,2 @@
 # qAAC-FAAD
-My attempt at porting faad2 to Go (partly)
+My (failed) attempt at porting faad2 to Go (partly)
