@@ -1,4 +1,4 @@
-module qaac
+module github.com/qusicapp/qaac
 
 go 1.21.3
 
